@@ -1,0 +1,6 @@
+Superstore Analysis Summary
+Total Sales: 2297200.86
+Total Profit: 286397.02
+Number of Orders: 5009
+Number of Customers: 793
+Average Shipping Duration: 3.96 days
